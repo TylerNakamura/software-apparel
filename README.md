@@ -1,4 +1,4 @@
-#Software Shirts    
+#Software Apparel    
 Software Based Apparel for sale where a portion of the proceeds go to the parent company or is sold directly from parent company
 
 Contents:
