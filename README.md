@@ -2,9 +2,10 @@
 T Shirts for sale where the proceeds go to the parent company or is sold directly from parent company
 
 Contents:
-- [Wikipedia](https://github.com/TylerNakamura/Software-Tee-Shirts#wikipedia-wikimedia)
 - [Github](https://github.com/TylerNakamura/Software-Tee-Shirts#github-githubmyshopify)
 - [fluxbox](https://github.com/TylerNakamura/Software-Tee-Shirts#fluxbox)
+- [Mozilla](https://github.com/TylerNakamura/Software-Tee-Shirts#Mozilla)
+- [Wikipedia](https://github.com/TylerNakamura/Software-Tee-Shirts#wikipedia-wikimedia)
 
 Noteworthy:
 - [Unix Stickers](http://www.unixstickers.com/)
@@ -20,6 +21,11 @@ http://fluxbox.spreadshirt.com/
 Github apparel - sold from Github
 https://github.myshopify.com/
 ![Alt text](/images/github-shirt.jpg)
+
+##Mozilla    
+Mozilla apparel - sold from Mozilla
+https://gear.mozilla.org/
+![Alt text](/images/mozillashirt.jpg)
 
 ##Wikipedia (Wikimedia)     
 Wikipedia based apparel - proceeds go to sending thank you gifts to Wikipedia volunteers
