@@ -1,13 +1,13 @@
-#Software T Shirts    
-T Shirts for sale where the proceeds go to the parent company or is sold directly from parent company
+#Software Shirts    
+Software Based Apparel for sale where a portion of the proceeds go to the parent company or is sold directly from parent company
 
 Contents:
-- [Github](https://github.com/TylerNakamura/Software-Tee-Shirts#github-githubmyshopify)
-- [fluxbox](https://github.com/TylerNakamura/Software-Tee-Shirts#fluxbox)
-- [Mozilla](https://github.com/TylerNakamura/Software-Tee-Shirts#Mozilla)
-- [Wikipedia](https://github.com/TylerNakamura/Software-Tee-Shirts#wikipedia-wikimedia)
+- [fluxbox](http://fluxbox.spreadshirt.com/)
+- [Github](https://github.myshopify.com/)
+- [Mozilla](https://gear.mozilla.org/)
+- [Wikipedia](https://store.wikimedia.org/)
 
-Noteworthy:
+Other Noteworthy Sites:
 - [Unix Stickers](http://www.unixstickers.com/)
 
 =============================================================================
