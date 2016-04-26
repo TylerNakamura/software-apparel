@@ -30,7 +30,7 @@ https://gear.mozilla.org/
 ![Alt text](/images/mozillashirt.jpg)
 
 ##Unix Stickers
-"Each time you purchase, we make a donation to support the projects behind the stickers & swag you buy." For more information visit [unixstickers.com](www.unixstickers.com)
+"Each time you purchase, we make a donation to support the projects behind the stickers & swag you buy." For more information visit [unixstickers.com](https://www.unixstickers.com)
 ![Alt text](/images/unixstickers.PNG)
 
 ##Wikipedia (Wikimedia)     
