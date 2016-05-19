@@ -7,6 +7,7 @@ Software based apparel where at least a portion of the proceeds go to the compan
 - [Github](https://github.myshopify.com/)
 - [Mozilla](https://gear.mozilla.org/)
 - [OpenBSD](http://www.openbsd.org/orders.html)
+- [Pirate Bay(byte love)](http://www.bytelove.com/partners/thepiratebay/)
 - [Unix Stickers](http://www.unixstickers.com/)
 - [Wikipedia](https://store.wikimedia.org/)
 
@@ -40,6 +41,12 @@ https://gear.mozilla.org/
 "The OpenBSD project produces a FREE, multi-platform 4.4BSD-based UNIX-like operating system. Our efforts emphasize portability, standardization, correctness, proactive security and integrated cryptography. As an example of the effect OpenBSD has, the popular OpenSSH software comes from OpenBSD."
 
 [http://www.openbsd.org/orders.html](http://www.openbsd.org/orders.html)
+
+## The Pirate Bay (byte love)
+
+By buying the official The Pirate Bay / Kopimi t-shirts and merchandise you are supporting the kopimists at piratbyran.org in their mission of total world domination. Bytelove donates the profits from these t-shirts to Piratbyrån.
+
+[http://www.bytelove.com/partners/thepiratebay/](http://www.bytelove.com/partners/thepiratebay/)
 
 ## Unix Stickers
 "Each time you purchase, we make a donation to support the projects behind the stickers & swag you buy."
