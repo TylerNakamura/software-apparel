@@ -4,6 +4,7 @@ Software based apparel where at least a portion of the proceeds go to the compan
 - [Electronic Frontier Foundation](https://supporters.eff.org/shop)
 - [fluxbox](http://fluxbox.spreadshirt.com/)
 - [Free Software Foundation](https://shop.fsf.org/)
+- [Freewear.org](https://www.freewear.org/)
 - [Github](https://github.myshopify.com/)
 - [Mozilla](https://gear.mozilla.org/)
 - [OpenBSD](http://www.openbsd.org/orders.html)
@@ -25,6 +26,11 @@ http://fluxbox.spreadshirt.com/
 The Free Software Foundation (FSF) is a nonprofit with a worldwide mission to promote computer user freedom and to defend the rights of all free software users.
 
 [https://shop.fsf.org/](https://shop.fsf.org/)
+
+## Freewear.org
+FreeWear.org is an online FOSS merchandising store and a print shop. We offer T-shirts, polo shirts, sweatshirts, mugs, etc. of a high print quality. For every sold item, we donate a part to the association or organization to which they belong.
+
+https://www.freewear.org/
 
 ## Github
 Github apparel sold from directly from Github
