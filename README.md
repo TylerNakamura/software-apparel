@@ -6,6 +6,7 @@ Software based apparel where at least a portion of the proceeds go to the compan
 - [Free Software Foundation](https://shop.fsf.org/)
 - [Freewear.org](https://www.freewear.org/)
 - [Github](https://github.myshopify.com/)
+- [Internet Archive](https://store.archive.org/)
 - [Mozilla](https://gear.mozilla.org/)
 - [OpenBSD](http://www.openbsd.org/orders.html)
 - [Pirate Bay(byte love)](http://www.bytelove.com/partners/thepiratebay/)
@@ -41,6 +42,10 @@ https://www.freewear.org/
 Github apparel sold from directly from Github
 
 https://github.myshopify.com/
+
+## The Internet Archive
+
+https://store.archive.org/
 
 ## Mozilla
 
